@@ -9,8 +9,11 @@ Roles have been assigned within the team.
 Regular meetings and communication have been conducted via Discord. 
 After cleaning the dataset, it has been reexamined by visualizing the data. Prediction models have been applied to the dataset.
 
+
+```
 Authors:
 
 Bengü Yurdakul
 Beste Şengül
 Furkan Erdi
+```
