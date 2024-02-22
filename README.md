@@ -18,6 +18,7 @@ Furkan Erdi
 ```
 
 In the first notebook ( main1.py ) you can follow data processes and ARIMA, RFR, LSTM models.
+
 In the second notebook ( main2.py ) you can follow Prophet model.
 
 Results of Prophet
