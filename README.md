@@ -20,6 +20,9 @@ Furkan Erdi
 
 Results of Prophet
 ---
+![image](https://github.com/helizac/data_challenge_gsu/assets/54884571/f147e3a4-3c1a-4408-a373-1f910f799f11)
+![image](https://github.com/helizac/data_challenge_gsu/assets/54884571/cc2fbd68-ddc8-4ff9-b5ca-caf8c6eaddee)
+![image](https://github.com/helizac/data_challenge_gsu/assets/54884571/37fc5733-e5a9-4026-852e-f7edb17df88a)
 
 
 Results of ARIMA
