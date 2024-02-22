@@ -17,3 +17,11 @@ Bengü Yurdakul
 Beste Şengül
 Furkan Erdi
 ```
+
+Results of Prophet
+---
+
+
+Results of ARIMA
+---
+![image](https://github.com/helizac/data_challenge_gsu/assets/54884571/543864b6-8cf7-44f9-84d4-3214e275feaf)
