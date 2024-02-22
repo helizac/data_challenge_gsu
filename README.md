@@ -9,7 +9,6 @@ Roles have been assigned within the team.
 Regular meetings and communication have been conducted via Discord. 
 After cleaning the dataset, it has been reexamined by visualizing the data. Prediction models have been applied to the dataset.
 
-
 ```
 Authors:
 
@@ -17,6 +16,9 @@ Bengü Yurdakul
 Beste Şengül
 Furkan Erdi
 ```
+
+In the first notebook ( main1.py ) you can follow data processes and ARIMA, RFR, LSTM models.
+In the second notebook ( main2.py ) you can follow Prophet model.
 
 Results of Prophet
 ---
